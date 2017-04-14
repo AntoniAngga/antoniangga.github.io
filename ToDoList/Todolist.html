@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>To Do List</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="styleTodoList.css" rel="stylesheet">
+    
+      </head>
+  <body>
+<div class="container">
+<div class = "row">
+      <div class = "col-md-12">
+          <h1 class = "text-center"> To Do List </h1>
+      </div>
+
+    <!-- Bagian Add -->
+    <div class = "col-md-6">
+      <input type="text" id="txtList" class = "text-center pull-right" placeholder="Write the list"/>
+    </div>
+    <div class = "col-md-6">
+      <button id = "btnAdd" type = "submit" class = "btn btn-primary">
+        Add
+      </button>
+      <button id = "btnHistory" type="submit" class="btn btn-warning">See History</button>
+    </div>
+
+    <div class = "col-md-6">
+      <ul id="listditambah" class = "pull-right"></ul>       
+    </div>
+    <div class = "col-md-6">
+    </div>
+
+</div>
+</div>
+
+
+
+    <script src="MyScript.js"></script>
+  </body>
+</html>

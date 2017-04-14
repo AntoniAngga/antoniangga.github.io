@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Game Bertarung</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+</head>
+<body>
+    <div class="row">
+        <div class="col-md-12"> <br/> </div>
+        <div><h1 style="text-align: center">Welcome To Game Adventure</h1></div>
+        <!-- Caracter -->
+        <div class="col-md-4" style="text-align: center">
+            <h4>Warrior</h4>
+            <div class="col-md-12"> <img id="Warrior" style="width: 200px; height : 200px" src="asset/Knight.png" > </div>
+        </div>
+        <div class="col-md-4" style="text-align: center">
+            <h4>Archer</h4>
+            <div class="col-md-12"> <img id="Archer" style="width: 200px; height : 200px" src="asset/Archer.png"> </div>
+        </div>
+        <div class="col-md-4" style="text-align: center">
+            <h4>Mage</h4>
+            <div class="col-md-12"> <img id="Mage" src="asset/Mage.jpg" style="width: 200px; height: 200px"></div>
+        </div>
+    </div>
+
+    <br/>
+    <div class="row">
+        <div class="col-md-12"><p> Input Your Name : <input id="txtName" placeholder="Type Your Name"></p></div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <h3>Petarungan log</h3>
+            <div class="col-md-12" id = "Keterangan-Hero">
+            </div>
+            <div class="col-md-12">
+                <ul id="log-Pertarungan">
+
+                </ul>
+            </div>
+        </div>
+        <div class="col-md-6" id ="FinishDescription">
+        </div>
+    </div>
+
+
+<script src="Script.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+</body>
+</html>
