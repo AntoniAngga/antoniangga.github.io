@@ -25,7 +25,7 @@
     - Text-Decoration
     - Padding
 # Perkenalkan diri
-  Nama Saya Antoni Angga,
+  Nama Saya Antoni Angga di panggil Angga,
   Saya sangat suka devlop website itu, setelah saya melihat perkembangan IT untuk Website sangat cukup tinggi
   dari sana saya memikirkan apakah saya bisa membuar Aplication Website.
   karena saya Basic nya dari Desktop Programmer, Sebenernya kaya Pindah agama tapi why not, kita memcoba yang baru di dunia
