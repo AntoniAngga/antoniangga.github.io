@@ -30,5 +30,3 @@
   dari sana saya memikirkan apakah saya bisa membuar Aplication Website.
   karena saya Basic nya dari Desktop Programmer, Sebenernya kaya Pindah agama tapi why not, kita memcoba yang baru di dunia
   Programming ini.
-  
-  ![Because I love Minion and the boss Glu](http://octodex.github.com/images/minion.png)
